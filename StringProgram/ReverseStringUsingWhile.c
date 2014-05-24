@@ -17,13 +17,19 @@ Catch Me at :www.facebook.com/pavi.Kumbhar
 void main()
 {
  char str[100],temp;
- int i,j=0;
+ int i,j=0,len=0;
 
  printf("\n Enter the string :");
  gets(str);
 
+ for(i=0;str[i]!='\0';i++)
+ {
+   len++;
+
+ }
+
  i=0;
- j=strlen(str)-1;
+ j=len-1;
 
  while(i<j)
 	 {
