@@ -2,7 +2,7 @@
  Progrom to Display the SubString (Dislpay those word in Sub string which
  are Whole word in Origin String if Sub String Not contain Any Full Word in 
  origin String then disply Null) .
- ----------------------------------------------------------------------
+ -----------------------------------------------------------------------
 * Case 1]
  Input:Enter String : Pavi Kumbhar
         Enter the upper limit of substring: 2
