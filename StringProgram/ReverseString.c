@@ -29,6 +29,7 @@ void main()
 
 }
 
+// Function for get length of string
 int xstrlen(char *s)
   {
 	int c=0;
@@ -40,7 +41,7 @@ int xstrlen(char *s)
  return c ;
   }
 
-
+// Function Reverse string
 
 void xstrrev(char *s,int l)
 {   int i;
